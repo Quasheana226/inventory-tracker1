@@ -1,0 +1,24 @@
+{
+  "name": "inventory-tracker1",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Quasheana226/inventory-tracker1#readme",
+  "bugs": {
+    "url": "https://github.com/Quasheana226/inventory-tracker1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quasheana226/inventory-tracker1.git"
+  },
+  "license": "ISC",
+  "author": "Quashean Armstrong",
+  "type": "commonjs",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "typescript": "^6.0.2"
+  }
+}
